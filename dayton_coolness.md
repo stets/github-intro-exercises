@@ -24,7 +24,7 @@ Bar with 3-D printing.
 
 ### Mendelson's
 
-A Jawa sandcrawler
+A huge liquidation store across from the Dragon's baseball stadium.
 
 ## History
 
