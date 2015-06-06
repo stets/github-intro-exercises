@@ -8,6 +8,16 @@ Big honking pipe organ, with public performances
 
 ## Tech
 
+### Dayton Diode
+
+Local non-profit makerspace.
+http://www.daytondiode.org/
+
+### Fabspace
+
+A fully equipped makerspace for the Dayton area.  Currently in fundraising campaign for startup funds.
+http://fabspace.net/
+
 ### ProtoBuildBar
   
 Bar with 3-D printing.  
