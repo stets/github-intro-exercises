@@ -20,7 +20,7 @@ http://fabspace.net/
 
 ### ProtoBuildBar
   
-Bar with 3-D printing.  
+Bar with 3-D printing. 
 
 ### Mendelson's
 
@@ -44,3 +44,6 @@ Kids' science museum with small zoo inside
 
 The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014
 
+###Dublin Pub
+
+Awesome traditional Irish food.
