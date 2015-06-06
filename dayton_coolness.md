@@ -4,7 +4,7 @@
 
 ### Westminster Presbyterian
 
-Big honking pipe organ, with public performances
+Big honking pipe organ, with [public performances](http://www.westminsterdayton.org/music/events.html)
 
 ## Tech
 
