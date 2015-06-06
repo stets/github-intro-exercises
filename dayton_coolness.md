@@ -28,3 +28,9 @@ A farmstead operating entirely off 19th-century technology you can watch and par
 
 Kids' science museum with small zoo inside
 
+## Beer
+
+### The Dayton Beer Company
+
+The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014
+
